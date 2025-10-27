@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "DiscordCmdPal (Package)": {
+      "commandName": "MsixPackage",
+      "doNotLaunchApp": true
+    },
+    "DiscordCmdPal (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
